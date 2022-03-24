@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home">
+
+    </item>
+    <item
+        android:id="@+id/transactions"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Transactions">
+
+    </item>
+
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/ic_center_focus_weak_black_24dp"
+        android:title="Scan">
+
+    </item>
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Account">
+
+    </item>
+
+
+
+</menu>
